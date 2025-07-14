@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    color: #333;
+}
+
+.back-link {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+
+.red-text {
+    color: red;
+}
+
+.green-text {
+    color: green;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.bold-italic-text {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.description {
+    margin: 15px 0;
+}
+
+.main-list {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.sublist {
+    margin-left: 15px;
+    list-style-type: decimal;
+}
+
+.blue-item {
+    color: blue;
+}
+
+.red-item {
+    color: red;
+}
+
+.purple-item {
+    color: purple;
+}
+
+.green-item {
+    color: green;
+}
+
+.xxsmall {
+    font-size: xx-small;
+}
+
+.xsmall {
+    font-size: x-small;
+}
+
+.small {
+    font-size: small;
+}
+
+.medium {
+    font-size: medium;
+}
+
+.large {
+    font-size: large;
+}
+
+.xlarge {
+    font-size: x-large;
+}
+
+.xxlarge {
+    font-size: xx-large;
+}
+
+.mixed-size {
+    margin-top: 15px;
+}
